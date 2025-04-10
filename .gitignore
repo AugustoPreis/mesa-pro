@@ -1,0 +1,43 @@
+# Node
+node_modules/
+package-lock.json
+pnpm-lock.yaml
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+dist/
+build/
+.temp/
+.cache/
+
+# Logs
+logs/
+*.log
+*.log.*
+
+# dotenv
+.env
+.env.*.local
+
+# IDEs
+.vscode/
+.history/
+.idea/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Test Coverage
+coverage/
+
+# Misc
+*.pdf
+*.zip
+*.rar
+*.tgz
+*.gz
